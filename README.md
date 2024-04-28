@@ -5,3 +5,4 @@ Pontos considerados:
  O modelo possui como entidades: Cliente, Veículo, Mecânico e Serviços; 
  A equipe de mecânicos foi gerada a partir de um relacionamento N:M entre "Veículo" e "Mecânico";
  A Ordem de serviço, por sua vez, foi gerada pelo relacionamento N:M entre "Serviços" e "Equipe de mecânicos".
+	
